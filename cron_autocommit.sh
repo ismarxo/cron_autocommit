@@ -1,4 +1,4 @@
-cd /var/www/u1640211/data/www/account-sib.ru
+cd /home/ismarxo/test/git_cron/
 git add -A
 git commit -m "cron autocommit"
-git push origin production:production
+git push origin dev:dev
